@@ -44,6 +44,7 @@
 - (IBAction)testOBtnPress:(id)sender
 {
     
+    //new addSSSS
     /*
     UIImage *snapshot;
     CGImageRef cgScreen = UIGetScreenImage();
